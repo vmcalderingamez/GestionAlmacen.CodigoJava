@@ -1,6 +1,7 @@
 <h1 align="center">Gestión De Almacén</h1>
 
-:construction:Proyecto En Progreso:construction:
+## Proyecto Académico de 2do año
+
 <br>
 <br>
 [Imagen Del Diagrama UML]<img src ="https://raw.githubusercontent.com/LachoCardenas44/GestionAlmacen.VisualParadigm/main/PreviewGestionAlmacen.jpg">
